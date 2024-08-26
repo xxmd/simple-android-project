@@ -29,4 +29,6 @@ android {
 }
 
 dependencies {
+    compileOnly files('libs\\xposed-api-82.jar')
+
 }
