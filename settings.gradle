@@ -1,2 +1,2 @@
-rootProject.name = "android-project-cli"
+rootProject.name = projectname
 include ':app'
